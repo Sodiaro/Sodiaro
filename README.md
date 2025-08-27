@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Sodiq Semiu
+# 🧑‍💻 Sodiq Semiu
 
 **`Software Engineer | FullStack Developer`**
 

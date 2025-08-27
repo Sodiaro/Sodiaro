@@ -15,20 +15,24 @@ I love building modern, user-friendly web applications and solving problems with
 
 ## 🛠️ Tech Stack  
 
-### Languages & Frameworks  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)  
+### Languages & Frameworks   
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="margin-right:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin-right:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" style="margin-right:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" style="margin-right:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" style="margin-right:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" style="margin-right:30px;" />
+</p>
 
 ### Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visual-studio-code&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin-right:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="margin-right:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" style="margin-right:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" style="margin-right:30px;" />
+</p>
 ---
 
 ## 📌 Featured Projects  

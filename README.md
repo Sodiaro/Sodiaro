@@ -137,22 +137,18 @@ I enjoy learning new technologies, contributing to projects that solve real-worl
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+
+
+<br/>
+<br/>
+
+### Tools & Platforms  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"  style="padding-right: 100px;"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"   style="padding-right: 10px;"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"   style="padding-right: 10px;"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30"   style="padding-right: 10px;"  />
+</p>
 
 <br/>
 <br/>
@@ -165,14 +161,14 @@ I enjoy learning new technologies, contributing to projects that solve real-worl
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Sodiaro&show_icons=true&theme=tokyonight" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sodiaro&layout=compact&theme=tokyonight" 
   />
 
 </p>

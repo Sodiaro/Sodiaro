@@ -35,13 +35,8 @@ I enjoy learning new technologies, contributing to projects that solve real-worl
             src="https://custom-icon-badges.demolab.com/github/followers/Sodiaro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
-    <a href="mailto:sodiqsemiu.dev@gmail.com" target="_blank">
-    <img 
-      alt="Email" 
-      title="Send me an email" 
-      src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"
-    />
-  </a>
+
+
 </p>
 
 ---

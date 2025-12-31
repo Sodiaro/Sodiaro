@@ -153,24 +153,5 @@ I enjoy solving complex backend challenges, optimizing system performance, and c
 </p>
 
 <br/>
-<br/>
+ 
 
-### 📊 GitHub Stats  
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Sodiaro&show_icons=true&theme=tokyonight" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sodiaro&layout=compact&theme=tokyonight" 
-  />
-
-</p>

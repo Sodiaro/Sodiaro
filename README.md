@@ -1,10 +1,10 @@
 # 👨‍💻 Sodiq Semiu
 
-**`Software Engineer | FullStack Developer`**
+**`Software Engineer | Backend-Focused`**
 
-I am a Software Engineer with a strong interest in full-stack development, passionate about building scalable, user-friendly, and modern web applications. My experience spans working with JavaScript, React, Node.js, and databases to design and deliver efficient solutions.
+I am a Software Engineer with a focus on backend development, building scalable, reliable, and high-performance systems. I specialize in Node.js, API design, databases (SQL and NoSQL), and cloud deployment, while also having full-stack experience that enables end-to-end application understanding.
 
-I enjoy learning new technologies, contributing to projects that solve real-world problems, and continuously improving my skills. Beyond coding, I value clean architecture, collaboration, and knowledge sharing within the tech community.
+I enjoy solving complex backend challenges, optimizing system performance, and contributing to projects that have real-world impact. I value clean architecture, code quality, and collaboration within development teams.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/sodiq-semiu/" target="_blank">

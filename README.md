@@ -1,9 +1,9 @@
-<h1 align="center">Sodiq Semiu Olalekan</h1>
-<h3 align="center">Backend Engineer · Node.js · NestJS · PostgreSQL · AWS</h3>
+<h1 align="center">Sodiq Semiu</h1>
+<h3 align="center">Software Engineer · Backend-Focused · Node.js · NestJS · PostgreSQL · AWS</h3>
 
 <p align="center">
   I design and ship <strong>production-grade backend systems</strong> — from greenfield architecture to cloud deployment.<br/>
-  My focus is building APIs and services that are <strong>scalable, observable, and built to last</strong>.
+  My focus is building APIs and distributed services that are <strong>scalable, observable, and built to last</strong>.
 </p>
 
 <p align="center">
@@ -25,21 +25,29 @@
 
 ## About
 
-Backend engineer with **5+ years** building and maintaining production systems across e-commerce, CRM, and booking platforms. I own the full backend lifecycle — architecture decisions, API design, database modelling, cloud deployment, and production monitoring.
+Software Engineer with **5+ years** building and maintaining production systems across e-commerce, CRM, and booking platforms. I own the full backend lifecycle — architecture decisions, API design, database modelling, cloud deployment, and production monitoring.
 
-I specialize in systems where reliability and performance matter: high-traffic APIs, event-driven workflows, payment processing, and auth infrastructure. I write TypeScript-first NestJS services backed by PostgreSQL or MongoDB, run on AWS, and instrument everything with Sentry, Prometheus, and Grafana.
+I work across multiple languages and runtimes — primarily **Node.js/NestJS** and **TypeScript**, with solid experience in **Python (FastAPI/Django)** and working knowledge of **Java (Spring Boot)**. I design systems that handle real traffic: event-driven workflows, payment processing, auth infrastructure, and async job pipelines — deployed on AWS and instrumented for production observability.
 
 ---
 
 ## Tech Stack
 
-**Backend & APIs**
+**Languages & Runtimes**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Backend Frameworks**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 **Databases & Caching**
 
@@ -72,27 +80,31 @@ I specialize in systems where reliability and performance matter: high-traffic A
 
 ## Core Competencies
 
-- **System Architecture** — designing clean, modular backends from the ground up with separation of concerns and long-term maintainability in mind
-- **API Design** — RESTful APIs with versioning, rate limiting, proper error handling, and Swagger/OpenAPI docs
+- **System Architecture** — designing clean, modular backends from scratch with long-term maintainability in mind
+- **API Design** — RESTful APIs with versioning, rate limiting, proper error handling, and Swagger/OpenAPI documentation
 - **Authentication & Authorization** — JWT, RBAC, OAuth 2.0, social login (Google, Facebook)
-- **Database Engineering** — schema design, indexing strategies, query optimisation across SQL and NoSQL
+- **Database Engineering** — schema design, indexing strategies, and query optimisation across SQL and NoSQL
 - **Background Processing** — BullMQ job queues for async workflows and scheduled tasks
-- **Payment Integration** — Paystack and Flutterwave end-to-end, including webhooks and reconciliation
+- **Payment Integration** — Paystack and Flutterwave end-to-end, including webhooks and reconciliation logic
 - **Production Observability** — structured logging, Sentry error tracking, Prometheus metrics, Grafana dashboards
-- **CI/CD** — automated test and deploy pipelines with GitHub Actions
+- **CI/CD** — automated build and deploy pipelines with GitHub Actions
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sodiaro&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sodiaro&layout=compact&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sodiaro&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sodiaro&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sodiaro&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <em>Open to backend engineering roles and interesting problems worth solving.</em><br/>
+  <em>Open to software engineering roles and interesting backend problems worth solving.</em><br/>
   <a href="mailto:sodiqsemiu.dev@gmail.com">sodiqsemiu.dev@gmail.com</a> · +234 814 246 6947
 </p>

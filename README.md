@@ -6,8 +6,6 @@
   TypeScript · NodeJS · Python · Java · PostgreSQL · AWS
 </p>
 
----
-
 ## Tech Stack
 
 **Languages**
@@ -47,8 +45,6 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth_2.0-4285F4?style=flat-square&logo=google&logoColor=white)
 
----
-
 ## Core Competencies
 
 - Designing and owning backend architecture from the ground up
@@ -60,14 +56,8 @@
 - Production observability — Sentry, Prometheus metrics, Grafana dashboards
 - CI/CD pipelines with GitHub Actions and containerised deployments
 
----
-
 ## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sodiaro&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sodiaro&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
